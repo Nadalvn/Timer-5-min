@@ -1,0 +1,18 @@
+body{
+    background-image: url("z3245589872116_1a5a397daa7a9212dc26e242229d53fe.jpg");
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+section {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 180px;
+    font-family: Comic Sans MS;
+    color:azure;
+}
